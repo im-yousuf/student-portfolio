@@ -1,3 +1,11 @@
+\# About Me
+
+
+
+I am a Computer Science student interested in software development and emerging technologies.
+
+
+
 \# Student Portfolio
 
 
